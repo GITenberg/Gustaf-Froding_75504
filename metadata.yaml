@@ -1,0 +1,28 @@
+_repo: Gustaf-Froding_75504
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bäckmann, Ida
+    gutenberg_agent_id: '58031'
+    url: http://www.gutenberg.org/2009/agents/58031
+description: ''
+gutenberg_issued: '2025-03-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75504'
+language: sv
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=umn.31951001079570d
+pgterms:marc905: 20160706035502bckmann
+pgterms:marc906: '1913'
+pgterms:marc907: se
+production_note: Jens Sadowski, Alpo Tiilikka, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net. This book was produced from images made available
+  by the HathiTrust Digital Library.
+publication_note: '  $aGÃ¶teborg :$bWald. Zachrissons Boktryckeri, $c1913.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Gustaf Fröding
+url: http://www.gutenberg.org/ebooks/75504
